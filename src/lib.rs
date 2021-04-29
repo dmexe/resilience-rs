@@ -74,6 +74,7 @@ mod ema;
 mod error;
 mod failure_predicate;
 mod instrument;
+mod retry;
 mod state_machine;
 mod windowed_adder;
 
